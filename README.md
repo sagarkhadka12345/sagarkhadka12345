@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkhadka12345&layout=compact&exclude_repo=github-readme-stats)"/>
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sagarkhadka12345"/>
 
 <img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
