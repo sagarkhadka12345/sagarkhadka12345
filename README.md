@@ -2,7 +2,7 @@
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkhadka12345&layout=compact&exclude_repo=github-readme-stats)"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sagarkhadka12345"/>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nish33&theme=horizon"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkhadka12345&theme=horizon"/>
 
 <img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
